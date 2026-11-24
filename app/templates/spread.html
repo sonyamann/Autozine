@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% set file = base ~ '/s/' ~ row.id ~ '/' %}
+{% set name = '@' ~ row.handle ~ ', as a zine' ~ (' (B-side)' if row.parent else '') %}
+{% block title %}{{ name }} · Autozine{% endblock %}
+{% block meta %}<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="@{{ row.handle }}'s X posts, collaged into a two-page zine.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ name }}">
+<meta property="og:description" content="X posts, cut and pasted with public domain pictures. Make one for any account.">
+<meta property="og:url" content="{{ url }}">
+<meta property="og:image" content="{{ origin }}{{ file }}share-1200x630.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">{% endblock %}
+{% block bodyclass %}wide{% endblock %}
+{% block main %}
+<section class="result">
+  <h1>@{{ row.handle }}, as a zine{% if row.parent %} <span class="side">B-side</span>{% endif %}</h1>
+  <a class="spread" href="{{ file }}spread.png">
+    <img src="{{ file }}spread.png" width="2200" height="1700"
+         alt="A two-page zine spread collaging @{{ row.handle }}'s posts with public domain pictures and quotations.">
+  </a>
+  <div class="actions">
+    <a class="go" href="{{ file }}spread.png?download=1">Download PNG</a>
+    <a class="btn" href="{{ file }}spread.pdf?download=1">Download PDF</a>
+    <button class="btn" type="button" data-copy="{{ url }}">Copy link</button>
+    <a class="btn" href="https://x.com/intent/post?text={{ name | urlencode }}&amp;url={{ url | urlencode }}"
+       target="_blank" rel="noopener">Post on X</a>
+  </div>
+  {% if can_b_side %}
+  <form class="flip" method="post" action="{{ base }}/s/{{ row.id }}/b-side">
+    <button class="another" type="submit" style="--spread-ink: {{ ink }}"><span aria-hidden="true">+</span> Make another page spread</button>
+  </form>
+  {% elif b_side %}
+  <p class="flip"><a class="btn" href="{{ base }}/s/{{ b_side.id }}">See the B-side →</a></p>
+  {% elif parent %}
+  <p class="flip"><a class="btn" href="{{ base }}/s/{{ parent.id }}">← Back to the A-side</a></p>
+  {% endif %}
+  <p class="hint"><a href="{{ base }}/">Make one for another account</a></p>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/site.js?v={{ v }}"></script>{% endblock %}

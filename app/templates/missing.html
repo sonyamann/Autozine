@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Not found · Autozine{% endblock %}
+{% block meta %}<meta name="robots" content="noindex, nofollow">{% endblock %}
+{% block main %}
+<section class="notice">
+  <h1>No zine at this address</h1>
+  <p>The link may be mistyped, or the zine may have been taken down.</p>
+  <p><a class="go" href="{{ base }}/">Make a zine</a></p>
+</section>
+{% endblock %}

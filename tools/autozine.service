@@ -1,0 +1,22 @@
+[Unit]
+Description=Autozine (tweets collaged into a zine spread)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=autozine
+Group=autozine
+WorkingDirectory=/srv/autozine/app
+EnvironmentFile=/srv/autozine/env
+Environment=XDG_CACHE_HOME=/srv/autozine/app/build/.cache
+ExecStart=/srv/autozine/venv/bin/python app/server.py
+Restart=always
+RestartSec=3
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/srv/autozine/app/build
+
+[Install]
+WantedBy=multi-user.target

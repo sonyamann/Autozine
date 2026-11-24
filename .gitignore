@@ -1,0 +1,23 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# generated
+build/
+__pycache__/
+.DS_Store
+
+# The image files are about 4 GB, too large for GitHub. The manifest is tracked;
+# the images themselves live only on disk.
+library/*/*
+!library/review/
+
+# hand-labelling sheets contain other people's tweets
+labels/*.csv
+
+# local Python environment
+.venv/
+
+# marketing videos, kept out of git
+*.mp4

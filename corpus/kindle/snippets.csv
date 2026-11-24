@@ -1,0 +1,258 @@
+id,source,book,author,first_published,location,text,words,theme,secondary_theme,note,flags
+K002,middlemarch,Middlemarch,George Eliot,1871–72,Page 7,"Sane people did what their neighbors did, so that if any lunatics were at large, one might know and avoid them.",21,domestic,,,
+K004,middlemarch,Middlemarch,George Eliot,1871–72,Page 12,is there any yoked creature without its private opinions?,9,domestic,,,
+K006,middlemarch,Middlemarch,George Eliot,1871–72,Page 47,"To have in general but little feeling, seems to be the only security against feeling too much on any particular occasion.",21,domestic,,,
+K008,middlemarch,Middlemarch,George Eliot,1871–72,Page 79,The human mind has at no period accepted a moral chaos; and so preposterous a result was not strictly conceivable. But we are frightened at much that is not strictly conceivable.,31,high_techne,,,
+K009,middlemarch,Middlemarch,George Eliot,1871–72,Page 82,"Plainness has its peculiar temptations and vices quite as much as beauty; it is apt either to feign amiability, or, not feigning it, to show all the repulsiveness of discontent: at any rate, to be called an ugly thing in contrast with that lovely creature your companion, is apt to produce some effect beyond a sense of fine veracity and fitness in the phrase.",64,cosmopolitan,,,
+K010,middlemarch,Middlemarch,George Eliot,1871–72,Page 83,"Her shrewdness had a streak of satiric bitterness continually renewed and never carried utterly out of sight, except by a strong current of gratitude towards those who, instead of telling her that she ought to be contented, did something to make her so.",43,domestic,,,
+K011,middlemarch,Middlemarch,George Eliot,1871–72,Page 88,"she cared about what were considered refinements, and not about the money that was to pay for them.",18,cosmopolitan,,,
+K012,middlemarch,Middlemarch,George Eliot,1871–72,Page 102,"""I don't see how a man is to be good for much unless he has some one woman to love him dearly."" ""I think the goodness should come before he expects that."" ""You know better, Mary. Women don't love men for their goodness."" ""Perhaps not. But if they love them, they never think them bad."" ""It is hardly fair to say I am bad."" ""I said nothing at all about you.",71,domestic,,,generalization about women (ironic or in a character's voice)
+K013,middlemarch,Middlemarch,George Eliot,1871–72,Page 104,"For surely all must admit that a man may be puffed and belauded, envied, ridiculed, counted upon as a tool and fallen in love with, or at least selected as a future husband, and yet remain virtually unknown—known merely as a cluster of signs for his neighbors' false suppositions.",49,cosmopolitan,,,
+K014,middlemarch,Middlemarch,George Eliot,1871–72,Page 114,one's self-satisfaction is an untaxed kind of property which it is very unpleasant to find deprecated.,16,domestic,,,
+K015,middlemarch,Middlemarch,George Eliot,1871–72,Page 138,There are characters which are continually creating collisions and nodes for themselves in dramas which nobody is prepared to act with them. Their susceptibilities will clash against objects that remain innocently quiet.,32,domestic,,,
+K016,middlemarch,Middlemarch,George Eliot,1871–72,Page 141,"we begin by knowing little and believing much, and we sometimes end by inverting the quantities.",16,high_techne,,,
+K017,middlemarch,Middlemarch,George Eliot,1871–72,Page 151,"There is a sort of jealousy which needs very little fire: it is hardly a passion, but a blight bred in the cloudy, damp despondency of uneasy egoism.",28,domestic,,,
+K018,middlemarch,Middlemarch,George Eliot,1871–72,Page 156,"The remote worship of a woman throned out of their reach plays a great part in men's lives, but in most cases the worshipper longs for some queenly recognition, some approving sign by which his soul's sovereign may cheer him without descending from her high place.",46,cosmopolitan,,,
+K019,middlemarch,Middlemarch,George Eliot,1871–72,Page 186,"All the deepest fibres of the mother's memory were stirred, and the young man whose voice took a gentler tone when he spoke to her, was one with the babe whom she had loved, with a love new to her, before he was born.",44,domestic,,,
+K020,middlemarch,Middlemarch,George Eliot,1871–72,Page 187,"But that intimacy of mutual embarrassment, in which each feels that the other is feeling something, having once existed, its effect is not to be done away with. Talk about the weather and other well-bred topics is apt to seem a hollow device, and behavior can hardly become easy unless it frankly recognizes a mutual fascination—which of course need not mean anything deep or serious.",65,domestic,,,
+K021,middlemarch,Middlemarch,George Eliot,1871–72,Page 197,"It is an uneasy lot at best, to be what we call highly taught and yet not to enjoy: to be present at this great spectacle of life and never to be liberated from a small hungry shivering self—never to be fully possessed by the glory we behold, never to have our consciousness rapturously transformed into the vividness of a thought, the ardor of a passion, the energy of an action, but always to be scholarly and uninspired, ambitious and timid, scrupulous and dim-sighted.",84,domestic,,,long (84 words)
+K022,middlemarch,Middlemarch,George Eliot,1871–72,Page 240,"a disagreeable resolve formed in the chill hours of the morning had as many conditions against it as the early frost, and rarely persisted under the warming influences of the day.",31,nature,,,
+K023,middlemarch,Middlemarch,George Eliot,1871–72,Page 241,"Young love-making—that gossamer web! Even the points it clings to—the things whence its subtle interlacings are swung—are scarcely perceptible: momentary touches of fingertips, meetings of rays from blue and dark orbs, unfinished phrases, lightest changes of cheek and lip, faintest tremors. The web itself is made of spontaneous beliefs and indefinable joys, yearnings of one life towards another, visions of completeness, indefinite trust.",63,nature,,,
+K024,middlemarch,Middlemarch,George Eliot,1871–72,Page 293,"Will not a tiny speck very close to our vision blot out the glory of the world, and leave only a margin by which we see the blot? I know no speck so troublesome as self.",36,nature,,,
+K025,middlemarch,Middlemarch,George Eliot,1871–72,Page 363,"For the egoism which enters into our theories does not affect their sincerity; rather, the more our egoism is satisfied, the more robust is our belief.",26,high_techne,,,
+K026,middlemarch,Middlemarch,George Eliot,1871–72,Page 428,The terror of being judged sharpens the memory: it sends an inevitable glare over that long-unvisited past which has been habitually recalled only in general phrases.,26,domestic,,,
+K027,middlemarch,Middlemarch,George Eliot,1871–72,Page 429,his religious activity could not be incompatible with his business as soon as he had argued himself into not feeling it incompatible.,22,domestic,,,
+K028,middlemarch,Middlemarch,George Eliot,1871–72,Page 478,"Who can know how much of his most inward life is made up of the thoughts he believes other men to have about him, until that fabric of opinion is threatened with ruin?",33,cosmopolitan,,,
+K029,middlemarch,Middlemarch,George Eliot,1871–72,Page 487,It was more bearable to do without tenderness for himself than to see that his own tenderness could make no amends for the lack of other things to her.,29,domestic,,,
+K030,middlemarch,Middlemarch,George Eliot,1871–72,Page 501,"Everybody liked better to conjecture how the thing was, than simply to know it; for conjecture soon became more confident than knowledge, and had a more liberal allowance for the incompatible.",31,cosmopolitan,,,
+K031,middlemarch,Middlemarch,George Eliot,1871–72,Page 510,People glorify all sorts of bravery except the bravery they might show on behalf of their nearest neighbors.,18,domestic,,,
+K032,middlemarch,Middlemarch,George Eliot,1871–72,Page 512,Only those who know the supremacy of the intellectual life—the life which has a seed of ennobling thought and purpose within it—can understand the grief of one who falls from that serene activity into the absorbing soul-wasting struggle with worldly annoyances.,41,high_techne,,,
+K033,middlemarch,Middlemarch,George Eliot,1871–72,Page 514,"Then, again, there was the love of truth—a wide phrase, but meaning in this relation, a lively objection to seeing a wife look happier than her husband's character warranted, or manifest too much satisfaction in her lot—the poor thing should have some hint given her that if she knew the truth she would have less complacency in her bonnet, and in light dishes for a supper-party. Stronger than all, there was the regard for a friend's moral improvement, sometimes called her soul, which was likely to be benefited by remarks tending to gloom, uttered with the accompaniment of pensive staring at the furniture and a manner implying that the speaker would not tell what was on her mind, from regard to the feelings of her hearer. On the whole, one might say that an ardent charity was at work setting the virtuous mind to make a neighbor unhappy for her good.",151,domestic,,,long (151 words)
+K034,middlemarch,Middlemarch,George Eliot,1871–72,Page 522,the easy conception of an unreal Better had a sentimental charm which diverted her ennui.,15,domestic,,,
+K035,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 6,"They were conquerors, and for that you want only brute force—nothing to boast of, when you have it, since your strength is just an accident arising from the weakness of others.",31,cosmopolitan,,,
+K038,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 20,"I’ve seen the devil of violence, and the devil of greed, and the devil of hot desire; but, by all the stars! these were strong, lusty, red-eyed devils, that swayed and drove men—men, I tell you. But as I stood on this hillside, I foresaw that in the blinding sunshine of that land I would become acquainted with a flabby, pretending, weak-eyed devil of a rapacious and pitiless folly.",69,cosmopolitan,,,
+K039,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 28,"Otherwise there was only an indefinable, faint expression of his lips, something stealthy—a smile—not a smile—I remember it, but I can’t explain. It was unconscious, this smile was, though just after he had said something it got intensified for an instant. It came at the end of his speeches like a seal applied on the words to make the meaning of the commonest phrase appear absolutely inscrutable.",67,cosmopolitan,,,
+K040,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 37,"Do you see him? Do you see the story? Do you see anything? It seems to me I am trying to tell you a dream—making a vain attempt, because no relation of a dream can convey the dream-sensation, that commingling of absurdity, surprise, and bewilderment in a tremor of struggling revolt, that notion of being captured by the incredible which is of the very essence of dreams....” He was silent for a while. “... No, it is impossible; it is impossible to convey the life-sensation of any given epoch of one’s existence—that which makes its truth, its meaning-its subtle and penetrating essence. It is impossible. We live, as we dream—alone....”",110,cosmopolitan,,,long (110 words)
+K041,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 48,"I had to keep guessing at the channel; I had to discern, mostly by inspiration, the signs of hidden banks; I watched for sunken stones; I was learning to clap my teeth smartly before my heart flew out, when I shaved by a fluke some infernal sly old snag that would have ripped the life out of the tin-pot steamboat and drowned all the pilgrims; I had to keep a lookout for the signs of dead wood we could cut up in the night for next day’s steaming. When you have to attend to things of that sort, to the mere incidents of the surface, the reality—the reality, I tell you—fades. The inner truth is hidden—luckily, luckily. But I felt it all the same; I felt often its mysterious stillness watching me at my monkey tricks, just as it watches you fellows performing on your respective tightropes for—what is it? a half crown a tumble—” “Try to be civil, Marlow,” growled a voice, and I knew there was at least one listener awake besides myself. “I beg your pardon. I forgot the heartache which makes up the rest of the price. And indeed what does the price matter, if the trick be well done? You do your tricks very well. And I didn’t do badly either, since I managed not to sink that steamboat on my first trip.",228,nature,,,long (228 words)
+K042,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 55,"The essentials of this affair lay deep under the surface, beyond my reach, and beyond my power of meddling.",19,cosmopolitan,,,
+K043,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 71,"Everything belonged to him—but that was a trifle. The thing was to know what he belonged to, how many powers of darkness claimed him for their own. That was the reflection that made you creepy all over. It was impossible—it was not good for one either—trying to imagine. He had taken a high seat amongst the devils of the land—I mean literally. You can’t understand. How could you?—with solid pavement under your feet, surrounded by kind neighbors ready to cheer you or to fall on you, stepping delicately between the butcher and the policeman, in the holy terror of scandal and gallows and lunatic asylums—how can you imagine what particular region of the first ages a man’s untrammeled feet may take him into by the way of solitude—utter solitude without a policeman—by the way of silence—utter silence, where no warning voice of a kind neighbor can be heard whispering of public opinion? These little things make all the great difference. When they are gone you must fall back upon your own innate strength, upon your own capacity for faithfulness.",179,cosmopolitan,,,long (179 words)
+K044,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 85,"Mr. Kurtz lacked restraint in the gratification of his various lusts, that there was something wanting in him—some small matter which, when the pressing need arose, could not be found under his magnificent eloquence. Whether he knew of this deficiency himself I can’t say. I think the knowledge came to him at last—only at the very last. But the wilderness had found him out early, and had taken on him a terrible vengeance for the fantastic invasion. I think it had whispered to him things about himself which he did not know, things of which he had no conception till he took counsel with this great solitude—and the whisper had proved irresistibly fascinating. It echoed loudly within him because he was hollow at the core....",125,nature,,,long (125 words)
+K046,heart-of-darkness,Heart of Darkness,Joseph Conrad,1899,Page 97,"I tried to break the spell—the heavy, mute spell of the wilderness—that seemed to draw him to its pitiless breast by the awakening of forgotten and brutal instincts, by the memory of gratified and monstrous passions.",36,nature,,,
+K047,people-of-the-abyss,The People of the Abyss,Jack London,1903,Page 3,"That which made for more life, for physical and spiritual health, was good; that which made for less life, which hurt, and dwarfed, and distorted life, was bad.",28,cosmopolitan,,,
+K049,people-of-the-abyss,The People of the Abyss,Jack London,1903,Page 92,"Where sights and sounds abound which neither you nor I would care to have our children see and hear is a place where no man’s children should live, and see, and hear. Where you and I would not care to have our wives pass their lives is a place where no other man’s wife should have to pass her life. For here, in the East End, the obscenities and brute vulgarities of life are rampant. There is no privacy. The bad corrupts the good, and all fester together. Innocent childhood is sweet and beautiful: but in East London innocence is a fleeting thing, and you must catch them before they crawl out of the cradle, or you will find the very babes as unholily wise as you. The application of the Golden Rule determines that East London is an unfit place in which to live. Where you would not have your own babe live, and develop, and gather to itself knowledge of life and the things of life, is not a fit place for the babes of other men to live, and develop, and gather to themselves knowledge of life and the things of life. It is a simple thing, this Golden Rule, and all that is required. Political economy and the survival of the fittest can go hang if they say otherwise. What is not good enough for you is not good enough for other men, and there’s no more to be said.",244,domestic,,,long (244 words)
+K050,house-of-mirth,House of Mirth,Edith Wharton,1905,Location 247,"She wanted to get away from herself, and conversation was the only means of escape that she knew.",18,cosmopolitan,,,
+K051,house-of-mirth,House of Mirth,Edith Wharton,1905,Location 273,"secure in the shelter of her conspicuousness,",7,cosmopolitan,,,
+K052,house-of-mirth,House of Mirth,Edith Wharton,1905,Location 419,it seemed an added injustice that petty cares should leave a trace on the beauty which was her only defence against them.,22,domestic,,,
+K053,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 1,015","""No; but your taking a walk with me is only another way of making use of your material. You are an artist and I happen to be the bit of colour you are using today. It's a part of your cleverness to be able to produce premeditated effects extemporaneously.",49,cosmopolitan,,,
+K054,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 1,568","whichever way she looked she saw only a future of servitude to the whims of others, never the possibility of asserting her own eager individuality.",25,cosmopolitan,,,
+K055,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 1,892","Grace Stepney's mind was like a kind of moral fly-paper, to which the buzzing items of gossip were drawn by a fatal attraction, and where they hung fast in the toils of an inexorable memory.",35,cosmopolitan,,,
+K056,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 3,017","Moral complications existed for her only in the environment that had produced them; she did not mean to slight or ignore them, but they lost their reality when they changed their background.",32,cosmopolitan,,,
+K057,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 3,337","It was before him again in its completeness—the choice in which she was content to rest: in the stupid costliness of the food and the showy dulness of the talk, in the freedom of speech which never arrived at wit and the freedom of act which never made for romance. The strident setting of the restaurant, in which their table seemed set apart in a special glare of publicity, and the presence at it of little Dabham of the ""Riviera Notes,"" emphasized the ideals of a world where conspicuousness passed for distinction, and the society column had become the roll of fame.",102,cosmopolitan,,,long (102 words)
+K058,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 3,675","her long habit of adapting herself to others without suffering her own outline to be blurred,",16,cosmopolitan,,,
+K059,house-of-mirth,House of Mirth,Edith Wharton,1905,"Location 4,072","what she craved, and really felt herself entitled to, was a situation in which the noblest attitude should also be the easiest.",22,cosmopolitan,,,
+K060,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 54,"He looked upon boys as young ruffians who were more apt to be truthful if it was quite certain a lie would be found out, whose sense of honour was peculiar to themselves and did not apply to dealings with masters, and who were least likely to be troublesome when they learned that it did not pay.",57,domestic,,,
+K061,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 101,"It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched, for they are full of the truthless ideals which have been instilled into them, and each time they come in contact with the real they are bruised and wounded.",52,cosmopolitan,,,
+K062,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 102,"He lied and never knew that he lied, and when it was pointed out to him said that lies were beautiful. He was an idealist.",25,cosmopolitan,,,
+K063,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 280,"He could not be positive that reason was much help in the conduct of life. It seemed to him that life lived itself. He remembered very vividly the violence of the emotion which had possessed him and his inability, as if he were tied down to the ground with ropes, to react against it. He read many wise things in books, but he could only judge from his own experience (he did not know whether he was different from other people); he did not calculate the pros and cons of an action, the benefits which must befall him if he did it, the harm which might result from the omission; but his whole being was urged on irresistibly. He did not act with a part of himself but altogether. The power that possessed him seemed to have nothing to do with reason: all that reason did was to point out the methods of obtaining what his whole soul was striving for.",161,high_techne,,,long (161 words)
+K064,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 281,"When he was under the influence of passion he had felt a singular vigour, and his mind had worked with unwonted force. He was more alive, there was an excitement in sheer being, an eager vehemence of soul, which made life now a trifle dull. For all the misery he had endured there was a compensation in that sense of rushing, overwhelming existence.",63,cosmopolitan,,,
+K065,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 335,He had no self-control. He merely seemed to possess it because he was indifferent to many of the things which moved other people.,23,cosmopolitan,,,
+K066,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 381,"Life was passionate and manifold, and because it offered so much they felt a restless yearning for something more; because they were human they were unsatisfied; and they threw this eager vitality of theirs into a vehement striving after the ineffable.",41,cosmopolitan,,Spanish mystics,
+K067,of-human-bondage,Of Human Bondage,W. Somerset Maugham,1915,Page 426,"It looked as though men were puppets in the hands of an unknown force, which drove them to do this and that; and sometimes they used their reason to justify their actions; and when this was impossible they did the actions in despite of reason.",45,high_techne,,,
+K068,old-new-york,Old New York,Edith Wharton,1924,Page 2,"The Halsey parents gave their blessing with a precipitation which showed that they too had their anxieties, and that the relief of seeing Lanning “settled” would more than compensate for the conceivable drawbacks of the marriage; though, once it was decided on, they would not admit even to themselves that such drawbacks existed. Old New York always thought away whatever interfered with the perfect propriety of its arrangements.",68,cosmopolitan,,,
+K069,old-new-york,Old New York,Edith Wharton,1924,Page 2,"Almost any man can take a stand on a principle his fellow-citizens are already occupying; but Hayley Delane held out for things his friends could not comprehend, and did it for reasons he could not explain.",36,cosmopolitan,,,
+K070,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 8,"it is never safe to classify the souls of one’s neighbors; one is apt, in the long run, to be proved a fool.",23,domestic,folklore,,
+K071,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 8,"You should regard each meeting with a friend as a sitting he is unwittingly giving you for a portrait — a portrait that, probably, when you or he die, will still be unfinished. And, though this is an absorbing pursuit, nevertheless, the painters are apt to end pessimists. For however handsome and merry may be the face, however rich may be the background, in the first rough sketch of each portrait, yet with every added stroke of the brush, with every tiny readjustment of the “values,” with every modification of the chiaroscuro, the eyes looking out at you grow more disquieting. And, finally, it is your own face that you are staring at in terror, as in a mirror by candlelight, when all the house is still.",127,cosmopolitan,folklore,,long (127 words)
+K072,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 11,It was as if he thought he had already lost what he was actually holding in his hands.,18,domestic,folklore,,
+K073,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 21,"How the fruit got across the border remained a mystery, and all the efforts of the magistrates to stop it were useless. In vain they invented a legal fiction (as we have seen, the law took no cognizance of fairy things) that turned fairy fruit into a form of woven silk and, hence, contraband in Dorimare; in vain they fulminated in the Senate against all smugglers and all men of depraved minds and filthy habits — silently, surely, the supply of fairy fruit continued to meet the demand.",88,nature,folklore,,long (88 words)
+K074,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 53,"“Reason I know, is only a drug, and, as such, its effects are never permanent. But, like the juice of the poppy, it often gives a temporary relief.”",28,high_techne,folklore,Endymion Leer speaking,
+K075,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 62,"And the sun would set, and then our riders could watch the actual process of color fading from the world. Was that tree still really green, or was it only that they were remembering how a few seconds ago it had been green?",43,nature,folklore,,
+K076,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 75,"When Dame Marigold Chanticleer and her contemporaries had first been pupils at the Academy, Miss Primrose had only been a young assistant governess, very sentimental and affected, and full of nonsensical ideas. But nonsensical ideas and great practical gifts are sometimes found side by side, and sentimentality is a quality that rarely has the slightest influence on action.",58,domestic,folklore,,
+K077,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 112,"gradually his panic turned into a sort of lethargic nightmare of fatalism, which seemed to free him from the necessity of taking action. It was as if the future were a treacly adhesive fluid that had been spilt all over the present, so that everything he touched made his fingers too sticky to be of the slightest use.",58,domestic,folklore,,
+K078,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 122,"Life has its sad side, and we must take the rough with the smooth. Why, maids have died on their marriage eve, or, what’s worse, bringing their first baby into the world, and the world’s wagged on all the same. Life’s sad enough, in all conscience, but there’s nothing to be frightened about in it or to turn one’s stomach. I was country-bred, and as my old granny used to say, ‘There’s no clock like the sun and no calendar like the stars.’ And why? Because it gets one used to the look of Time. There’s no bogey from over the hills that scares one like Time. But when one’s been used all one’s life to seeing him naked, as it were, instead of shut up in a clock, like he is in Lud, one learns that he is as quiet and peaceful as an old ox dragging the plough. And to watch Time teaches one to sing. They say the fruit from over the hills makes one sing. I’ve never tasted so much as a sherd of it, but for all that I can sing.”",186,nature,folklore,Old nursemaid Hempie,long (186 words)
+K079,lud-in-the-mist,Lud-in-the-Mist,Hope Mirrlees,1926,Page 139,"Mere suspicions are hard to communicate. They are rather like the wines that will not travel, and have to be drunk on the spot.",24,domestic,folklore,,
+K081,a-high-wind-in-jamaica,A High Wind in Jamaica,Richard Hughes,1929,"Location 1,258","The children did not answer. It shocked them deeply to have to see a grown-up, a should-be Olympian, displaying his feelings. In exact opposition to the witnesses at the Transfiguration, they felt it would have been good for them to be almost anywhere rather than there. He was totally unconscious of their discomfort, however: too selfoccupied to notice how they avoided catching his eye.",64,domestic,,,
+K082,a-high-wind-in-jamaica,A High Wind in Jamaica,Richard Hughes,1929,"Location 1,408","First, what agency had so ordered it that out of all the people in the world who she might have been, she was this particular one, this Emily: born in such-and-such a year out of all the years in Time, and encased in this particular rather pleasing little casket of flesh? Had she chosen herself, or had God done it?",60,cosmopolitan,,,
+K083,a-high-wind-in-jamaica,A High Wind in Jamaica,Richard Hughes,1929,"Location 1,432","A sudden terror struck her: did any one know? (Know, I mean, that she was some one in particular, Emily—perhaps even God—not just any little girl.) She could not tell why, but the idea terrified her. It would be bad enough if they should discover she was a particular person—but if they should discover she was God! At all costs she must hide that from them.—But suppose they knew already, had simply been hiding it from her (as guardians might from an infant king)? In that case, as in the other, the only thing to do was to continue to behave as if she did not know, and so outwit them. But if she was God, why not turn all the sailors into white mice, or strike Margaret blind, or cure somebody, or do some other Godlike act of the kind? Why should she hide it? She never really asked herself why: but instinct prompted her strongly of the necessity. Of course, there was the element of doubt (suppose she had made a mistake, and the miracle missed fire): but more largely it was the feeling that she would be able to deal with the situation so much better when she was a little older. Once she had declared herself there would be no turning back; it was much better to keep her godhead up her sleeve for the present.",230,cosmopolitan,,,long (230 words)
+K085,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 15,"""Too frail of heart! for this lost nymph of thine,
+Free as the air, invisibly, she strays
+About these thornless wilds; her pleasant days
+She tastes unseen; unseen her nimble feet
+Leave traces in the grass and flowers sweet;
+From weary tendrils, and bow'd branches green,
+She plucks the fruit unseen, she bathes unseen:
+And by my power is her beauty veil'd
+To keep it unaffronted, unassail'd
+By the love-glances of unlovely eyes,
+Of Satyrs, Fauns, and blear'd Silenus' sighs.",80,nature,folklore,,
+K086,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 16,"Stoop, Hermes, let me breathe upon thy brow,
+And thou shalt see thy sweet nymph even now.""
+The God on half-shut feathers sank serene,
+She breath'd upon his eyes, and swift was seen
+Of both the guarded nymph near-smiling on the green.
+It was no dream; or say a dream it was,
+Real are the dreams of Gods, and smoothly pass
+Their pleasures in a long immortal dream.",68,nature,folklore,,
+K088,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 17,"A virgin purest lipp'd, yet in the lore
+Of love deep learned to the red heart's core:
+Not one hour old, yet of sciential brain
+To unperplex bliss from its neighbour pain;
+Define their pettish limits, and estrange
+Their points of contact, and swift counterchange;
+Intrigue with the specious chaos, and dispart
+Its most ambiguous atoms with sure art;
+As though in Cupid's college she had spent
+Sweet days a lovely graduate, still unshent,
+And kept his rosy terms in idle languishment.",82,high_techne,folklore,,long (82 words)
+K089,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 17,"And sometimes into cities she would send
+Her dream, with feast and rioting to blend;
+And once, while among mortals dreaming thus,
+She saw the young Corinthian Lycius
+Charioting foremost in the envious race,
+Like a young Jove with calm uneager face,
+And fell into a swooning love of him.",50,cosmopolitan,folklore,,
+K090,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 18,"Over the solitary hills he fared,
+Thoughtless at first, but ere eve's star appeared
+His phantasy was lost, where reason fades,
+In the calm'd twilight of Platonic shades.",28,nature,folklore,,
+K092,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 18,"So sweetly to these ravish'd ears of mine
+Came thy sweet greeting, that if thou shouldst fade
+Thy memory will waste me to a shade:—",25,nature,folklore,,
+K093,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 19,"Lycius from death awoke into amaze,
+To see her still, and singing so sweet lays;
+Then from amaze into delight he fell
+To hear her whisper woman's lore so well;
+And every word she spake entic'd him on
+To unperplex'd delight and pleasure known.",44,nature,folklore,,
+K094,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 20,"As men talk in a dream, so Corinth all,
+Throughout her palaces imperial,
+And all her populous streets and temples lewd,
+Mutter'd, like tempest in the distance brew'd,
+To the wide-spreaded night above her towers.",35,cosmopolitan,folklore,,
+K096,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 25,"Do not all charms fly
+At the mere touch of cold philosophy?",12,high_techne,,,
+K097,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 27,"They could not, sure, beneath the same roof sleep
+But to each other dream, and nightly weep.",17,domestic,,,
+K098,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 28,Alas! when passion is both meek and wild!,8,domestic,,,
+K099,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 28,"""Love! thou art leading me from wintry cold,
+Lady! thou leadest me to summer clime,
+And I must taste the blossoms that unfold
+In its ripe warmth this gracious morning time.""
+So said, his erewhile timid lips grew bold,
+And poesied with hers in dewy rhyme:
+Great bliss was with them, and great happiness
+Grew, like a lusty flower in June's caress.",62,domestic,,,
+K100,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 29,"For them the Ceylon diver held his breath,
+And went all naked to the hungry shark;
+For them his ears gush'd blood; for them in death
+The seal on the cold ice with piteous bark
+Lay full of darts; for them alone did seethe
+A thousand men in troubles wide and dark:
+Half-ignorant, they turn'd an easy wheel,
+That set sharp racks at work, to pinch and peel.",68,cosmopolitan,,,
+K101,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 30,"For venturing syllables that ill beseem
+The quiet glooms of such a piteous theme.",14,nature,,,
+K103,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 31,"In the mid days of autumn, on their eves
+The breath of Winter comes from far away,
+And the sick west continually bereaves
+Of some gold tinge, and plays a roundelay
+Of death among the bushes and the leaves,
+To make all bare before he dares to stray
+From his north cavern. So sweet Isabel
+By gradual decay from beauty fell,
+
+Because Lorenzo came not. Oftentimes
+She ask'd her brothers, with an eye all pale,
+Striving to be itself, what dungeon climes
+Could keep him off so long? They spake a tale
+Time after time, to quiet her. Their crimes
+Came on them, like a smoke from Hinnom's vale;
+And every night in dreams they groan'd aloud,
+To see their sister in her snowy shroud.",125,nature,,,death; long (125 words)
+K106,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 34,"Ah! wherefore all this wormy circumstance?
+Why linger at the yawning tomb so long?
+O for the gentleness of old Romance,
+The simple plaining of a minstrel's song!
+Fair reader, at the old tale take a glance,
+For here, in truth, it doth not well belong
+To speak:—O turn thee to the very tale,
+And taste the music of that vision pale.",62,nature,,,
+K108,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 37,"Northward he turneth through a little door,
+And scarce three steps, ere Music's golden tongue
+Flatter'd to tears this aged man and poor;
+But no—already had his deathbell rung;
+The joys of all his life were said and sung:
+His was harsh penance on St. Agnes' Eve:
+Another way he went, and soon among
+Rough ashes sat he for his soul's reprieve,
+And all night kept awake, for sinners' sake to grieve.",72,domestic,folklore,,
+K109,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 39,"That Angela gives promise she will do
+Whatever he shall wish, betide her weal or woe.
+
+Which was, to lead him, in close secrecy,
+Even to Madeline's chamber, and there hide
+Him in a closet, of such privacy
+That he might see her beauty unespied,
+And win perhaps that night a peerless bride,
+While legion'd fairies pac'd the coverlet,
+And pale enchantment held her sleepy-eyed.
+Never on such a night have lovers met,
+Since Merlin paid his Demon all the monstrous debt.",82,domestic,folklore,,long (82 words)
+K111,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 44,"thou, light-winged Dryad of the trees,
+In some melodious plot
+Of beechen green, and shadows numberless,
+Singest of summer in full-throated ease.",22,nature,,,
+K112,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 45,"Fair youth, beneath the trees, thou canst not leave
+Thy song, nor ever can those trees be bare;
+Bold Lover, never, never canst thou kiss,
+Though winning near the goal—yet, do not grieve;
+She cannot fade, though thou hast not thy bliss,
+For ever wilt thou love, and she be fair!",51,cosmopolitan,,,
+K113,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 46,"And, little town, thy streets for evermore
+Will silent be; and not a soul to tell
+Why thou art desolate, can e'er return.",23,cosmopolitan,,,
+K114,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 47,"So let me be thy choir, and make a moan
+Upon the midnight hours;
+Thy voice, thy lute, thy pipe, thy incense sweet
+From swinged censer teeming;
+Thy shrine, thy grove, thy oracle, thy heat
+Of pale-mouth'd prophet dreaming.
+
+Yes, I will be thy priest, and build a fane
+In some untrodden region of my mind,
+Where branched thoughts, new grown with pleasant pain,
+Instead of pines shall murmur in the wind:",72,nature,,,
+K115,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 49,"Oh, sweet Fancy! let her loose;
+Every thing is spoilt by use:
+Where's the cheek that doth not fade,
+Too much gaz'd at? Where's the maid
+Whose lip mature is ever new?
+Where's the eye, however blue,
+Doth not weary? Where's the face
+One would meet in every place?
+Where's the voice, however soft,
+One would hear so very oft?
+At a touch sweet Pleasure melteth
+Like to bubbles when rain pelteth.
+Let, then, winged Fancy find
+Thee a mistress to thy mind:",83,nature,,,long (83 words)
+K116,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 49,"Let the winged Fancy roam
+Pleasure never is at home.",10,nature,,,
+K117,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 51,"To bend with apples the moss'd cottage-trees,
+And fill all fruit with ripeness to the core;
+To swell the gourd, and plump the hazel shells
+With a sweet kernel; to set budding more,
+And still more, later flowers for the bees,
+Until they think warm days will never cease,",49,nature,,,
+K118,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 54,"O aching time! O moments big as years!
+All as ye pass swell out the monstrous truth,
+And press it so upon our weary griefs
+That unbelief has not a space to breathe.",33,nature,folklore,,
+K120,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 57,"Even here, into my centre of repose,
+The shady visions come to domineer,
+Insult, and blind, and stifle up my pomp.—",21,nature,folklore,,
+K125,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 63,"'tis the eternal law
+That first in beauty should be first in might:",13,nature,folklore,,
+K127,keats-poems-1820,Keats: Poems Published in 1820,John Keats,1820,Page 68,"Point me out the way
+To any one particular beauteous star,
+And I will flit into it with my lyre,
+And make its silvery splendour pant with bliss.",28,nature,folklore,,

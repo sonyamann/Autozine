@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}No zine for @{{ row.handle }} · Autozine{% endblock %}
+{% block meta %}<meta name="robots" content="noindex, nofollow">{% endblock %}
+{% block main %}
+<section class="notice">
+  <h1>No zine this time</h1>
+  <p>{{ row.error }}</p>
+  <p><a class="go" href="{{ base }}/">Try another account</a></p>
+</section>
+{% endblock %}

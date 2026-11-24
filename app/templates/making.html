@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Making @{{ row.handle }}'s {{ 'B-side' if row.parent else 'zine' }} · Autozine{% endblock %}
+{% block meta %}<meta name="robots" content="noindex, nofollow">
+<noscript><meta http-equiv="refresh" content="4"></noscript>{% endblock %}
+{% block main %}
+<section class="making" data-status-url="{{ base }}/s/{{ row.id }}/status">
+  <h1>Making @{{ row.handle }}'s {{ 'B-side' if row.parent else 'zine' }}</h1>
+  <figure class="slot" data-slot data-reel="{{ base }}/static/reel/" data-reel-count="40" aria-hidden="true">
+    <span class="frame"><img src="{{ base }}/static/reel/01.jpg" alt="" width="300" height="300"></span>
+    <span class="tape a"></span><span class="tape b"></span>
+    <figcaption data-slot-cap>shuffling the archive…</figcaption>
+  </figure>
+  <ol class="stages">
+    {% set ns = namespace(past=true) %}
+    {% for key, label in stages.items() %}
+      {% if key == shown %}{% set ns.past = false %}{% endif %}
+      <li data-stage="{{ key }}" class="{% if key == shown %}now{% elif ns.past %}done{% endif %}">{{ label }}</li>
+    {% endfor %}
+  </ol>
+  <p class="hint">This page updates by itself. You can leave and come back to this address.</p>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/site.js?v={{ v }}"></script>{% endblock %}

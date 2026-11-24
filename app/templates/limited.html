@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Not right now · Autozine{% endblock %}
+{% block meta %}<meta name="robots" content="noindex, nofollow">{% endblock %}
+{% block main %}
+<section class="notice">
+  <h1>Not right now</h1>
+  <p>{{ reason }}</p>
+  <p><a class="go" href="{{ base }}/">Back to the start</a></p>
+</section>
+{% endblock %}

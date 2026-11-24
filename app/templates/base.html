@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>{% block title %}Autozine{% endblock %}</title>
+{% block meta %}{% endblock %}
+<link rel="stylesheet" href="{{ base }}/static/site.css?v={{ v }}">
+</head>
+<body class="{% block bodyclass %}{% endblock %}">
+<header class="masthead">
+  <a class="wordmark" href="{{ base }}/">Autozine</a>
+  <span class="tag">your posts, cut &amp; pasted</span>
+</header>
+<main>
+{% block main %}{% endblock %}
+</main>
+<footer class="foot">
+  Pictures and quotations are public domain. Made at <a href="/">Supposedly Studio</a>.
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="intro">
+  <h1>Zine-ify your X posts</h1>
+  <p>Your best recent posts, collaged with thematically fitting public domain art and quotations. Enjoy!</p>
+</section>
+
+<form class="make" method="post" action="{{ base }}/make">
+  <div class="step">
+    <label class="q" for="handle"><span class="n">1</span> Whose posts?</label>
+    <div class="handle-field">
+      <span aria-hidden="true">@</span>
+      <input id="handle" name="handle" value="{{ handle }}" placeholder="handle" required
+             autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="200"
+             aria-describedby="handle-hint">
+    </div>
+    <p id="handle-hint" class="hint{% if error == 'handle' %} error{% endif %}">
+      {% if error == 'handle' %}That doesn't look like an X handle: up to 15 letters, numbers and underscores. A link to the profile works too.
+      {% else %}Any public account works, including your own.{% endif %}
+    </p>
+  </div>
+
+  <p class="quiz-note">Two optional questions. Leave any on <b>surprise me</b>.</p>
+
+  <fieldset class="step">
+    <legend class="q"><span class="n">2</span> Pick a token</legend>
+    <div class="choices tokens">
+      {% for theme, name, glyph in tokens %}
+      <label class="card"><input type="radio" name="token" value="{{ name }}">
+        <span class="glyph" aria-hidden="true">{{ glyph }}</span><span class="name">{{ name }}</span></label>
+      {% endfor %}
+      <label class="card surprise"><input type="radio" name="token" value="" checked>
+        <span class="glyph" aria-hidden="true">?</span><span class="name">surprise me</span></label>
+    </div>
+  </fieldset>
+
+  <fieldset class="step">
+    <legend class="q"><span class="n">3</span> Pick an ink</legend>
+    <div class="choices inks">
+      {% for name, color in inks.items() %}
+      <label class="card"><input type="radio" name="ink" value="{{ name }}">
+        <span class="swatch" style="background:{{ color }}"></span><span class="name">{{ name }}</span></label>
+      {% endfor %}
+      <label class="card surprise"><input type="radio" name="ink" value="" checked>
+        <span class="swatch mixed"></span><span class="name">surprise me</span></label>
+    </div>
+  </fieldset>
+
+  <button class="go" type="submit">Make the zine</button>
+  <p class="hint">Takes under a minute. The same handle and answers always make the same zine.</p>
+</form>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/site.js?v={{ v }}"></script>{% endblock %}

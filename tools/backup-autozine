@@ -1,0 +1,15 @@
+#!/bin/sh
+# Nightly copy of Autozine's database (a consistent snapshot, safe while the app
+# runs) and of each spread's record.json, which holds the seed, answers and labels
+# needed to remake it. The spread images themselves aren't copied. Keeps the
+# last 14 of each. Installed at /usr/local/bin/backup-autozine and run by
+# /etc/cron.d/backup-autozine.
+set -eu
+day=$(date -u +%F)
+out=/srv/backups/autozine-$day.db
+sqlite3 /srv/autozine/app/build/autozine.db ".backup $out"
+gzip -f "$out"
+cd /srv/autozine/app/build/out
+find . -name record.json -print0 | tar -czf "/srv/backups/autozine-records-$day.tar.gz" --null -T -
+ls -1t /srv/backups/autozine-2*.db.gz | tail -n +15 | xargs -r rm --
+ls -1t /srv/backups/autozine-records-*.tar.gz | tail -n +15 | xargs -r rm --
