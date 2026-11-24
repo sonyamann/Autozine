@@ -1,5 +1,7 @@
 # Autozine
 
+The app is live here: https://studio.sonyasupposedly.com/autozine/
+
 Working files for the tweet zine described in `SPEC.md`. The spec's "Build status" section says what exists and what doesn't.
 
 The current goal is to release the free two-page spread on its own. The paid 8-page zine is tabled; its plans are kept at the end of the spec.
